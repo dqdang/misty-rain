@@ -1,2 +1,2 @@
 # misty-rain
-Host glb files for website
+Host sword glb files for website
